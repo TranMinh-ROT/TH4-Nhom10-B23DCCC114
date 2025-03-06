@@ -36,7 +36,13 @@
 		component: './RandomUser',
 		icon: 'ArrowsAltOutlined',
 	},
-
+// bổ sung bài th2
+	{
+		path: '/Bai2',
+		name: 'Bai2',
+		component: './TH2/Bai2',
+		icon: 'HomeOutlined',
+	},
 	// DANH MUC HE THONG
 	// {
 	// 	name: 'DanhMuc',
