@@ -36,7 +36,7 @@
 		component: './RandomUser',
 		icon: 'ArrowsAltOutlined',
 	},
-// bổ sung bài th2
+	// bổ sung bài th2
 	{
 		path: '/Bai2',
 		name: 'Bai2',
@@ -94,5 +94,11 @@
 	},
 	{
 		component: './exception/404',
+	},
+	{
+		path: '/diplomabook',
+		name: 'Van Bang',
+		component: './DiplomaBook',
+		icon: 'FileTextOutlined',
 	},
 ];
